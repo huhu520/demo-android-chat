@@ -9,7 +9,7 @@ public class Chat {
     private String message;
     private String author;
 
-    // Required default constructor for Wilddog object mapping
+    // Required default constructor for Wilddog object mapping cshm
     @SuppressWarnings("unused")
     private Chat() {
     }
